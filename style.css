@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.cover{
+    background-color: #e0b913;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mb{
+    margin: 0;
+    width: 738px;
+    height: 564px;
+    border-radius: 30px;
+    background-color: #fff;
+    box-shadow: 10px 15px 5px 0 rgb(0, 0, 0, 0.25);
+}
+
+.hd{
+    margin-top: 25px;
+    width: 670px;
+    height: 106px;
+    border-radius: 15px;
+    background-color: #a2a2a2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+}
+
+.hd p{
+    font-size: 50px;
+    font-family: 'single day';
+    font-size: 64px;
+}
+
+.bd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 58px;
+    margin-top: 30px;
+}
+
+.bd button{
+    margin-top: 30px;
+    width: 106px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #a2a2a2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    font-family: 'single day';
+    font-size: 24px;
+    border: none;
+}
+
+.ft{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    width: 663px;
+    height: 78px;
+    border-radius: 15px;
+    background-color: #a2a2a2;
+    font-family: 'Single day';
+    font-size: 24px;
+}
